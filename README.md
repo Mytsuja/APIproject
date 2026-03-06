@@ -1,2 +1,3 @@
 # APIproject
 
+npm install
